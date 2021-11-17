@@ -1,0 +1,20 @@
+version: '3'
+services:
+  broker:
+    build: broker
+    environment:
+      HOSTNAME: broker
+    ports:
+      - "8080:8080"
+  auldfellas:
+    build: auldfellas
+    environment:
+      HOSTNAME: auldfellas
+  dodgydrivers:
+    build: dodgydrivers
+    environment:
+      HOSTNAME: dodgydrivers
+  girlpower:
+    build: girlpower
+    environment:
+      HOSTNAME: girlpower
