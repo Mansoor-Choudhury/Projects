@@ -1,0 +1,31 @@
+o Claire 9 3 music art sport 
+h Nicola 8 6 music sport 
+h Laura 7 1 music sport
+h David 10 8 
+o Karen 7 1 sport 
+o John 8 8 
+h Susan 8 7 music sport 
+h Fiona 6 2 music art sport 
+h Paul 6 1 music art sport 
+o Andrew 7 8 art sport 
+h Angela 10 8 music art sport 
+o Lisa 8 2 
+h James 10 4 sport 
+h Mark 7 8 music art sport 
+h Michelle 6 7 
+o Gillian 7 8 
+h Louise 9 2 music sport 
+o Sharon 7 1 sport 
+o Steven 10 6 art sport 
+h Scott 7 2 music art sport 
+o Christopher 7 6 art sport 
+o Jennifer 8 3 
+h Julie 8 7 art sport 
+h Robert 8 7 art sport 
+o Michael 7 8 music art sport 
+h Stephen 9 3 music art sport 
+h Emma 9 6 art sport 
+h Jacqueline 6 3 
+h Craig 9 8 
+o William 10 3 
+h Sarah 10 5 music art sport 

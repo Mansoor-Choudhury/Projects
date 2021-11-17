@@ -1,0 +1,28 @@
+Couples:
+(Claire, Mark)
+(Sharon, Robert)
+(Stephen, Julie)
+(Paul, Christopher)
+(Sarah, Nicola)
+Singles:
+Laura
+David
+Karen
+John
+Susan
+Fiona
+Andrew
+Angela
+Lisa
+James
+Michelle
+Gillian
+Louise
+Steven
+Scott
+Jennifer
+Michael
+Emma
+Jacqueline
+Craig
+William
